@@ -8,7 +8,7 @@ The **Adience** dataset, consisting of **12,000 diverse facial images**, serves 
 ✅ **Age into 8 groups** (labeled from 0 to 7).  
 ✅ **Gender as binary values** (0 for male, 1 for female).  
 
-## 🛠️ 3.1 Data Preparation  
+## 🛠️ Data Preparation  
 To ensure structured and high-quality data input for our CNN models, we performed rigorous data preprocessing:  
 
 1️⃣ **Structured Dataframes**:  
